@@ -1,4 +1,5 @@
-(ns hello-clj.core)
+(ns hello-clj.core
+  (:gen-class))
 
 (defn foo
   "I don't do a whole lot."
