@@ -15,6 +15,3 @@
   (println "hi"))
 
 (hi)
-
-
-
